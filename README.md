@@ -27,9 +27,8 @@ One of the most time intesive tasks was simplifying the css code. I found the cl
 
 The title has been updated and is more descriptive of their site. 
 
-```md
-![The finished product](../assets/images/Screenshot.png)
-```
+![Screenshot](https://user-images.githubusercontent.com/96760168/150904103-1fc06f18-779b-4e63-825c-6cd872e84f66.png)
+
 
 ## Resources
 
